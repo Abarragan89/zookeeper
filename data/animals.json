@@ -126,6 +126,150 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "mark",
+      "species": "human ",
+      "diet": "carnivore",
+      "personalityTraits": [],
+      "id": "13"
+    },
+    {
+      "name": "mark",
+      "species": "human ",
+      "diet": "carnivore",
+      "personalityTraits": [],
+      "id": "13"
+    },
+    {
+      "name": "tony",
+      "species": "human ",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "tony",
+      "species": "human ",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Mike",
+      "species": "dog",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious"
+      ],
+      "id": "17"
+    },
+    {
+      "name": "Mike",
+      "species": "dog",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious"
+      ],
+      "id": "17"
+    },
+    {
+      "name": "Anthony",
+      "species": "human ",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "19"
+    },
+    {
+      "name": "Anthony",
+      "species": "human ",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "19"
+    },
+    {
+      "name": "Anthony",
+      "species": "human ",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "21"
+    },
+    {
+      "name": "test",
+      "species": "human ",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "22"
+    },
+    {
+      "name": "test",
+      "species": "human ",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "23"
+    },
+    {
+      "name": "test2",
+      "species": "human ",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "24"
+    },
+    {
+      "name": "test2",
+      "species": "human ",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "24"
+    },
+    {
+      "name": "test22",
+      "species": "human ",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "26"
+    },
+    {
+      "name": "test22",
+      "species": "human ",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "26"
+    },
+    {
+      "name": "MIKE",
+      "species": "MONKEY",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "28"
     }
   ]
 }
