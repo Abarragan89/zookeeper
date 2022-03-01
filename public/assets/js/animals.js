@@ -24,7 +24,7 @@ const printResults = resultArr => {
 
 const getAnimals = (formData = {}) => {
   let queryUrl = '/api/animals?';
-  // this will make our query parameters
+  // this will make our query parameters. We need these because this is how our app.get method filters through the animal array. 
   Object.entries(formData).forEach(([key, value]) => {
     queryUrl += `${key}=${value}&`;
   });
