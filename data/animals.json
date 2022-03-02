@@ -270,6 +270,13 @@
         "loving"
       ],
       "id": "28"
+    },
+    {
+      "name": "asdf",
+      "species": "asdfasd",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "29"
     }
   ]
 }
